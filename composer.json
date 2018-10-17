@@ -1,0 +1,16 @@
+{
+    "name": "lysz210/laravel-mixer",
+    "description": "Class version of laravel-mix",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lingyong Sun",
+            "email": "lysz210@gmaill.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^3.7"
+    }
+}
